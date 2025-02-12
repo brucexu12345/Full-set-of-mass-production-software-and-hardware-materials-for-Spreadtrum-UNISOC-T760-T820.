@@ -1,8 +1,8 @@
 # Full-set-of-mass-production-software-and-hardware-materials-for-Spreadtrum-UNISOC-T760-T820.
-https://windy-breadfruit-a1e.notion.site/image/attachment%3Ab6601a67-824e-447c-83ae-e8f1df1ba631%3Aimage.png?table=block&id=196fdcdd-cc08-807d-a2e9-ceecfbb4c40d&spaceId=37e1af34-b45c-4fa3-a1fa-8fe4242b6211&width=1420&userId=&cache=v2![image](https://github.com/user-attachments/assets/82999c9b-f918-432e-bba9-789db68c6b09)
-https://windy-breadfruit-a1e.notion.site/image/attachment%3Ad3344230-674f-4d1f-8802-8b3138893222%3Aimage.png?table=block&id=196fdcdd-cc08-80d1-8b14-e93412becd03&spaceId=37e1af34-b45c-4fa3-a1fa-8fe4242b6211&width=1420&userId=&cache=v2![image](https://github.com/user-attachments/assets/8f72536b-050f-48db-8b50-440d14f975fb)
-https://windy-breadfruit-a1e.notion.site/image/attachment%3Acbf4d352-2383-406d-882f-722e312d1218%3Aimage.png?table=block&id=196fdcdd-cc08-804c-9c6f-e5de18be3f76&spaceId=37e1af34-b45c-4fa3-a1fa-8fe4242b6211&width=1420&userId=&cache=v2![image](https://github.com/user-attachments/assets/332b7994-ce78-4d66-aa9e-09347db9503a)
-https://windy-breadfruit-a1e.notion.site/image/attachment%3A2d8bdcb9-5329-49e8-b2b4-78e12a5d400d%3Aimage.png?table=block&id=196fdcdd-cc08-80a2-93fd-f531f1c85ae7&spaceId=37e1af34-b45c-4fa3-a1fa-8fe4242b6211&width=1420&userId=&cache=v2![image](https://github.com/user-attachments/assets/2877ddcf-5ddf-4984-b3a9-1f95657c1d2f)
-https://windy-breadfruit-a1e.notion.site/image/attachment%3A058bb6c2-3d2a-47db-abcc-dc38c07ba623%3Aimage.png?table=block&id=196fdcdd-cc08-8078-a293-e62730cff46a&spaceId=37e1af34-b45c-4fa3-a1fa-8fe4242b6211&width=1420&userId=&cache=v2![image](https://github.com/user-attachments/assets/d1810994-ef55-43ba-ac23-b86e56271ec8)
-If you need any other relevant information, please check the following link.
+https://github.com/user-attachments/assets/82999c9b-f918-432e-bba9-789db68c6b09<br/>
+https://github.com/user-attachments/assets/8f72536b-050f-48db-8b50-440d14f975fb<br/>
+https://github.com/user-attachments/assets/332b7994-ce78-4d66-aa9e-09347db9503a<br/>
+https://github.com/user-attachments/assets/2877ddcf-5ddf-4984-b3a9-1f95657c1d2f<br/>
+https://github.com/user-attachments/assets/d1810994-ef55-43ba-ac23-b86e56271ec8<br/>
+Need any other relevant information, please check the following link.<br/>
 https://windy-breadfruit-a1e.notion.site/Comprehensive-Electronics-Hardware-and-Software-Solutions-Design-Services-and-Product-Offerings-196fdcddcc0880fe946ce308ed894e7f
